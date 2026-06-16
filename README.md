@@ -8,7 +8,7 @@ L’objectif est de nettoyer, enrichir et valider ces données avant de produire
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ds_project_1/
@@ -42,14 +42,14 @@ ds_project_1/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 cd ds_project_1/notebooks
 jupyter notebook project1_eda_feature_engineering.ipynb
 ```
 
-## 📦 Dependencies
+##  Dependencies
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn openpyxl pandera
@@ -57,7 +57,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn openpyxl pandera
 
 ---
 
-## 🏗️ Pipeline (IPO Architecture)
+##  Pipeline (IPO Architecture)
 
 ### MODULE 1 — INPUT: Securing Fidelity
 - Load and inspect both datasets
