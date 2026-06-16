@@ -1,0 +1,36 @@
+{
+  "orders": {
+    "Dataset": "Online-Store-Orders",
+    "Total Features": 26,
+    "Numeric Features": 18,
+    "Engineered Features": 7,
+    "Total Rows": 1200,
+    "Missing Values": 0,
+    "Engineered List": [
+      "revenue_per_item",
+      "has_coupon",
+      "order_month",
+      "order_dow",
+      "cart_value_density",
+      "is_weekend",
+      "status_code"
+    ]
+  },
+  "sales": {
+    "Dataset": "Product-Sales-Region",
+    "Total Features": 29,
+    "Numeric Features": 18,
+    "Engineered Features": 7,
+    "Total Rows": 1500,
+    "Missing Values": 0,
+    "Engineered List": [
+      "gross_revenue",
+      "net_revenue",
+      "lead_time_days",
+      "total_cost",
+      "margin_ratio",
+      "log_net_revenue",
+      "season"
+    ]
+  }
+}
